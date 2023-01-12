@@ -2,21 +2,20 @@
 * 👀 I’m currently searching for a new career opportunity
 * 🐶 Looking to collaborate on pet projects to upgrade my teamwork skills via git
 
-
+<p align='center'>
+   <a href="https://github-readme-stats.vercel.app/api?username=hazankin&show_icons=true&count_private=true">
+       <img height=150 src="https://github-readme-stats.vercel.app/api?username=hazankin&show_icons=true&count_private=true"/></a>
+   <a href="https://github.com/alexanderhazankin/hazankin/github-readme-stats">
+       <img height=150 src="https://github-readme-stats.vercel.app/api/top-langs/?username=hazankin&layout=compact"/></a>
+</p>
+ 
 <p align='center'>
    <a href="https://www.linkedin.com/in/hazankin/">
        <img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white"/>
    </a>
- 
-<p align='center'>
-   📫 How to reach me: <a href='mailto:alexanderhazankin@gmail.com'>alexanderhazankin@gmail.com</a>
-</p>
 
 <p align='center'>
-   <a href="https://github-readme-stats.vercel.app/api?username=alexanderhazankin&show_icons=true&count_private=true">
-       <img height=150 src="https://github-readme-stats.vercel.app/api?username=alexanderhazankin&show_icons=true&count_private=true"/></a>
-   <a href="https://github.com/alexanderhazankin/github-readme-stats">
-       <img height=150 src="https://github-readme-stats.vercel.app/api/top-langs/?username=alexanderhazankin&layout=compact"/></a>
+   📫 How to reach me: <a href='mailto:alexanderhazankin@gmail.com'>alexanderhazankin@gmail.com</a>
 </p>
 
 

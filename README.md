@@ -1,14 +1,8 @@
-### 👋 Hi, I’m Alexander Hazankin
-* 👀 I’m currently searching for a new career opportunity
-* 🐶 Looking to collaborate on pet projects to upgrade my teamwork skills via git
+<h1 align="center">Hi there, I'm Alex 👋</a> 
+<h3 align="center">👨🏻‍💻 I’m currently study 🐍 Python -> 🤖 Machine learning -> 🧠 Artificial intelligence</h3>
+<h3 align="center">👀 Searching for a new career opportunity</h3>
+<h3 align="center">🐶 Looking to collaborate on pet projects to upgrade my teamwork skills via git</h3>
 
-<p align='center'>
-   <a href="https://github-readme-stats.vercel.app/api?username=hazankin&show_icons=true&count_private=true">
-       <img height=150 src="https://github-readme-stats.vercel.app/api?username=hazankin&show_icons=true&count_private=true"/></a>
-   <a href="https://github.com/alexanderhazankin/hazankin/github-readme-stats">
-       <img height=150 src="https://github-readme-stats.vercel.app/api/top-langs/?username=hazankin&layout=compact"/></a>
-</p>
- 
 <p align='center'>
    <a href="https://www.linkedin.com/in/hazankin/">
        <img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white"/>
@@ -18,14 +12,11 @@
    📫 How to reach me: <a href='mailto:alexanderhazankin@gmail.com'>alexanderhazankin@gmail.com</a>
 </p>
 
-
 ## 🛠 Hard Skills
 * Programming:	Python | SQL languages 
-* Technology:	GitHub | PyCharm | BigQuery | Kaggle | Tableau | ChatGPT 
+* Technology:	GitHub | PyCharm | BigQuery | ChatGPT 
 * Operation Systems:	MacOS | Windows 
-* Proficient:		Excel | Spreadsheets | Power Point | Microsoft Word 
-* Familiar with:	R | Orange | Google Analytics | WordPress | Google Ads
-
+* Software:		Excel | Spreadsheets | Power Point | Microsoft Word 
 
 ## 🪶 Soft Skills
 * Problem-solving and detail-oriented
